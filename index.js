@@ -23,5 +23,6 @@ module.exports = [
   , "I can't believe what I'm seeing, you're awesome."
   , "I'm pretty sure you're now fully qualified fantastic human."
   , "looks like you're pretty much awesome now."
-  , "omg - I'm falling head over heels for your sweet skills."
+  , "omg - I'm falling head over heels for your sweet skills.""
+  , "✧･ﾟ: *✧･ﾟ:* you are super cool! *:･ﾟ✧*:･ﾟ✧"
 ];
